@@ -1,0 +1,16 @@
+/* styles.css or your relevant stylesheet */
+.bold-nav-link {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.bold-nav-link:hover {
+    color: white !important;
+    /* !important ensures it overrides Bootstrap's default styles */
+}
+
+/* Home image size 
+.largeImage {
+    width: 400px;
+    height: 300px;
+}
